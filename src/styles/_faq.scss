@@ -28,6 +28,12 @@
                 cursor: pointer;
                 position: relative;
 
+                @media (max-width: 768px) {
+                    font-size: 16px; 
+                    padding-right: 64px; 
+                    line-height: 1.4;
+                }
+
                 &::after {
                     content: '+';
                     position: absolute;
