@@ -34,7 +34,9 @@
             text-transform: uppercase;
             
             @media (max-width: 768px) {
-                font-size: 40px;
+                font-size: 30px; 
+                letter-spacing: 3px; 
+                padding: 0 10px; 
             }
         }
 
