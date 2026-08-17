@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/VitorV9/landing-page-interestelar/issues"
   },
-  "homepage": "https://github.com/VitorV9/landing-page-interestelar#readme"
+  "homepage": "https://github.com/VitorV9/landing-page-interestelar#readme",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.102.0"
+  }
 }
