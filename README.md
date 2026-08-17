@@ -13,7 +13,7 @@ O objetivo desta aplicação foi refatorar a estrutura de um clone de plataforma
 
 ## 🔗 Link do Projeto
 O site está hospedado na Vercel e pode ser acessado no link abaixo:
-https://[nome-do-seu-projeto-aqui].vercel.app
+https://landing-page-interestelar-six.vercel.app/
 
 ## 🛠️ Como executar o projeto localmente
 
