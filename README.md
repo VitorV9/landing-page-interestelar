@@ -2,8 +2,6 @@
 
 Este é um projeto de uma landing page responsiva e imersiva inspirada no épico filme de ficção científica "Interestelar", desenvolvido como atividade prática de desenvolvimento front-end. 
 
-O objetivo desta aplicação foi refatorar a estrutura de um clone de plataforma de streaming, transformando-o em uma experiência cinematográfica através da adaptação de layout, manipulação de imagens, estilização dark mode e uso de unidades dinâmicas para mobile.
-
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**: Estrutura semântica da página.
 - **SCSS (SASS)**: Estilização modular e componentizada utilizando variáveis, mixins e a metodologia **BEM** (Block, Element, Modifier).
